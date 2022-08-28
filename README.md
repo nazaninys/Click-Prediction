@@ -1,0 +1,2 @@
+# Click-Prediction
+In a .csv file, the data of 1000 users is collected. The goal is to identify wheter a user clicked on advertisement or not. Based on information about their daily internet usage, age, daily time spent on site and etc we want to predict if this user clicked on advertisement or not as some datas are missing. This prediction is based on analysis of similar users to this specific user.
